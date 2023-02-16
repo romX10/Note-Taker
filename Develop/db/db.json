@@ -1,6 +1,14 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Homework",
+        "text": "I need to get all my homework done!"
+    },
+    {
+        "title": "Chores",
+        "text": "I finished all my chores!"
     }
 ]
